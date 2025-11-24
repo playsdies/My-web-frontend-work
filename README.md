@@ -1,0 +1,1 @@
+Hey my Portfolio here! Feel Free to check it out! Waiting for commissions and still learning. Use VStudio extension to host the website locally so you can check it out. My Website is simple, did some optimizations on it.
